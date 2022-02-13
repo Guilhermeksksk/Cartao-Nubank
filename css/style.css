@@ -1,0 +1,56 @@
+body{
+	background-color: rgb(36, 36, 36);
+	font-family: Arial, Helvetica, sans-serif ;
+	color: #fff;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+
+.container{
+	background-color: #820ad1;
+	padding: 1em;
+	border-radius: 10px;
+	width: 15em;
+	height: 25em;
+	box-shadow: 5px 8px 8px #000;
+}
+
+.footer img{
+ 	width: 35%;
+}
+
+
+.mastercard{
+	width: 30%;
+}
+
+.chip{
+	transform: rotate(90deg);
+	width: 40%;
+}
+
+.conteudo{
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+}
+
+.header{
+	height: 70%;
+}
+
+.footer{
+	height: 30%;
+}
+
+.box-img{
+	display: flex;
+	align-items: flex-start;
+}
+
+.footer p {
+	margin-left: 1em ;
+}
+
