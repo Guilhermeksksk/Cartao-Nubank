@@ -1,4 +1,4 @@
-# Cart-o-Nubank
+# Cartao-Nubank
 Designer e a animação  de um cartão Nubank, com  Css, Html e Java Script
 
 <div align="center">
